@@ -1,6 +1,5 @@
 <?php
 
-// Base class
 class Shape {
     public function area() {
         return 0;
